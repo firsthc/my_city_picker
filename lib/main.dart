@@ -46,7 +46,8 @@ class MainPage extends StatelessWidget {
             },
           );
         },
-        child: new Icon(Icons.arrow_upward),
+        child: new Icon(Icons.panorama_fish_eye),
+        tooltip: '三级联动',
       ),
     );
   }

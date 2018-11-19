@@ -7,5 +7,4 @@ A new Flutter application.
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
 
-![三级联动的图片选择器](https://github.com/hanyunmuyu/my_city_picker/blob/master/Screenshot_1542595177.png)
 ![三级联动的图片选择器](Screenshot_1542595177.png)
